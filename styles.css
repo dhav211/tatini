@@ -118,3 +118,7 @@ li {
 #faq {
   padding: 5rem 2rem;
 }
+
+.centered-header {
+  text-align: center;
+}
